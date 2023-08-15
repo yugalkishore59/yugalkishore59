@@ -42,7 +42,7 @@ Currently, I am a CSE student @National Institute of Technology Hamirpur.
 - [Repository](https://github.com/yugalkishore59/Devoir_of_warrior)
 - Devoir of Warrior is a fast-paced dungeon crawler game with puzzle solving elements. Packed with plenty of action and magical stuff, Devoir of Warrior provides a fluid and lag-free experience. You'll have to be quick on the battle field as there is no time to waste.
 
-### Project 2
+### Pixel Art Editor
 
 - [Repository](https://github.com/yugalkishore59/Pixel-Art-Editor)
 - 16*16 pixel art editor with all these tools - pen, eraser, undo, fill, clear, save to gallery, android plugins etc.
