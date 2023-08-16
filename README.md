@@ -20,7 +20,6 @@ Currently, I am a CSE student @National Institute of Technology Hamirpur.
 [![Blender](https://img.shields.io/badge/-Blender-333?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Google Play Console](https://img.shields.io/badge/-Google%20Play%20Console-333?style=flat&logo=google-play&logoColor=white)](https://play.google.com/apps/publish)
-[![C](https://img.shields.io/badge/-C-333?style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
 [![C++](https://img.shields.io/badge/-C%2B%2B-333?style=flat&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
